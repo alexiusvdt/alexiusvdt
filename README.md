@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexiusvdt
 - 🏠 Portland, Oregon
-- 🌱 I’m currently learning: javascript
+- 🌱 I’m currently learning: C#
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: use a 🔮, or via [Linkedin](https://www.linkedin.com/in/ajohns12/)
 
