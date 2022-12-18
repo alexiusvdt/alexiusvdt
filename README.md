@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning: C#
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: use a 🔮, or via [Linkedin](https://www.linkedin.com/in/ajohns12/)
-- [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexiusvdt&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+- <a href="https://github.com/anuraghazra/github-readme-stats">
+- <img align="center" src=https://github-readme-stats.vercel.app/api?username=alexiusvdt&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)/>
+</a>       
 - [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiusvdt&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
