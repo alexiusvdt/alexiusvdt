@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Alex!
 - 🏠 Portland, Oregon
 - 🌱 I’m currently learning: C#
-<p align="center">
-<a href="https://www.linkedin.com/in/ajohns12/"><img align="center" src="https://img.shields.io/badge/LinkedIn-6fd2f9?style=for-the-badge&logo=linkedin&logoColor=282a36"></a></p>
+- Find me on Linkedin<a href="https://www.linkedin.com/in/ajohns12/"><img align="center" src="https://img.shields.io/badge/LinkedIn-6fd2f9?style=for-the-badge&logo=linkedin&logoColor=282a36"></a>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexiusvdt&show_icons=true&theme=synthwave&hide=issues&hide_border=true&count_private=true" />
