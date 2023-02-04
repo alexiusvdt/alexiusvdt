@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 🏠 Portland, Oregon
-- 🌱 I’m currently learning: C#
+- 🌱 I’m currently learning: React
 - Find me on Linkedin   <a href="https://www.linkedin.com/in/ajohns12/"><img align="center" src="https://img.shields.io/badge/LinkedIn-6fd2f9?style=for-the-badge&logo=linkedin&logoColor=282a36"></a>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
