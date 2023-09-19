@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex!
 - 🏠 Portland, Oregon
-- 🌱 I’m currently learning: Vite
-- Find me on Linkedin   <a href="https://www.linkedin.com/in/ajohns12/"><img align="center" src="https://img.shields.io/badge/LinkedIn-6fd2f9?style=for-the-badge&logo=linkedin&logoColor=282a36"></a>
+- 🌱 I’m currently working with: flask
+- Find me on Linkedin <a href="https://www.linkedin.com/in/ajohns12/"><img align="center" src="https://img.shields.io/badge/LinkedIn-6fd2f9?style=for-the-badge&logo=linkedin&logoColor=282a36"></a>
 <p align="center">
   
 - <img src="https://www.codewars.com/users/alexiusvdt/badges/large"/>
