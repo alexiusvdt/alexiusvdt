@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sorting algorithms](https://github.com/alexiusvdt/sorting)
 
-- 🌱 I’m currently learning **bash scripting**
+- 🌱 I’m currently learning **geolocating**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://profile-appn.vercel.app/) hosted on Vercel
 <!---
