@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Building better things, one step at a time</h3>
 
-- 🔭 I’m currently working on [sorting algorithms](https://github.com/alexiusvdt/sorting)
-
-- 🌱 I’m currently learning **geolocating**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://profile-appn.vercel.app/) hosted on Vercel
+- 🔭 I’m currently learning/working on making games with Godot
+<!---
+- 🌱 I’m currently learning 
+--->
+- 👨‍💻 Take a look at [my portfolio](https://profile-appn.vercel.app/) hosted on Vercel
 <!---
 - 📝 I regularly write articles on 
 --->
